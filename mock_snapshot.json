@@ -1,0 +1,9 @@
+{
+  "source": "SYNTHETIC RK ADAPTER, not the vendor wire format",
+  "menu": [
+    {"sku":"pizza-01","name":"Пицца Маргарита","price":"590.00"},
+    {"sku":"tea-01","name":"Чай с бергамотом","price":"150.00"},
+    {"sku":"salad-01","name":"Овощной салат","price":"320.00"}
+  ],
+  "zones":[{"id":"central","name":"Центр","fee":"100.00"},{"id":"north","name":"Север","fee":"200.00"}]
+}

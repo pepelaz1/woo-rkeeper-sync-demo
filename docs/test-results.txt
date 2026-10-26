@@ -1,0 +1,15 @@
+test_bad_signature (test_bridge.BridgeTests) ... ok
+test_changed_payload_rejected (test_bridge.BridgeTests) ... ok
+test_invalid_quantity (test_bridge.BridgeTests) ... ok
+test_lost_ack_restart_no_duplicate (test_bridge.BridgeTests) ... ok
+test_removed_product_deactivated (test_bridge.BridgeTests) ... ok
+test_replay_new_delivery_same_order (test_bridge.BridgeTests) ... ok
+test_retry_limit (test_bridge.BridgeTests) ... ok
+test_snapshot_rollback (test_bridge.BridgeTests) ... ok
+test_unknown_sku_and_mismatched_money (test_bridge.BridgeTests) ... ok
+test_upsert_price_without_duplicates (test_bridge.BridgeTests) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.040s
+
+OK
